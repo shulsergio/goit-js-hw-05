@@ -34,7 +34,7 @@ const allUsers = [
     friends: ["Goldie Gentry", "Briana Decker"],
   },
 ];
-
+console.log("--- task-2");
 console.log(getUsersWithFriend(allUsers, "Briana Decker"));
 // [
 //   {

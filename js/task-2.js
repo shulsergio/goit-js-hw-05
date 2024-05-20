@@ -1,3 +1,10 @@
+/**
+ *
+ *
+ * @param {*} users
+ * @param {*} friendName
+ * @return {*}
+ */
 const getUsersWithFriend = (users, friendName) => {
   //   const getUsers = users.filter((user) => user.friends.includes(friendName));
   // return getUsers ? getUsers : friendName;
